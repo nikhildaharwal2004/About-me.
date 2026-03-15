@@ -62,6 +62,6 @@ Spring Tool Suite (STS)
 
 GitHub: https://github.com/nikhildaharwal2004
 
-LinkedIn: Add your LinkedIn profile
+LinkedIn: https://www.linkedin.com/in/nikhil-daharwal/
 
 ⭐ Always learning and building projects with Java & Spring Boot.
